@@ -16,7 +16,7 @@ Tiene diferentes secciones como:
 Se pueden usar imágenes alternativas en caso de que se desee personalizar el contenido.
 
 ## Funcionamiento:
-![igredesig](instagramredesign.PNG)
+![igredesig](instagramredesign.png)
 
 ## Tecnologías
 - HTML
